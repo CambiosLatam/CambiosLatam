@@ -188,7 +188,7 @@ p {
 }
 
 video {
-  width: 100%;
+  width: 25em;
   margin: 2em 0;
   max-width: 100%;
   padding: 0;
